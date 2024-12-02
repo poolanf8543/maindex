@@ -1,8 +1,8 @@
 <h1 align="center">
  <a href="https://x.com/MaindexAI">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/maindex-logo-dark"/>
-    <source media="(prefers-color-scheme: light)" srcset="images/maindex-logo-light"/>
+    <source media="(prefers-color-scheme: dark)" srcset="images/maindex-logo-dark.png"/>
+    <source media="(prefers-color-scheme: light)" srcset="images/maindex-logo-light.png"/>
     <img width="400" src="images/maindex-logo-dark-bg.png"/>
  </a>
  <br />
